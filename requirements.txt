@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 flask
 yt_dlp
+=======
+flask
+yt_dlp
+>>>>>>> 962d47d50f8939443c883ccad01fc47075be13b7
 instaloader
